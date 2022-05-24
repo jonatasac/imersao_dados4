@@ -10,5 +10,6 @@
   
 ## <div align="center"> Aulas e desafios
 [Aula Inaugural](https://github.com/jonatasac/imersao_dados4/blob/main/Aula_inaugural.ipynb)
+  
 [Aula 1](https://github.com/jonatasac/imersao_dados4/blob/main/Aula_1.ipynb)
 
